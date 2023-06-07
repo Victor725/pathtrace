@@ -7,4 +7,5 @@ if __name__=="__main__":
         for file in files:
             file=out_path+file
             with open(file) as f:
+
                 
